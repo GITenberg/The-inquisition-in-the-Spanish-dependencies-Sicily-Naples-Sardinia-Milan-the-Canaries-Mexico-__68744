@@ -1,0 +1,32 @@
+_repo: The-inquisition-in-the-Spanish-dependencies-Sicily-Naples-Sardinia-Milan-the-Canaries-Mexico-__68744
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lea, Henry Charles
+    alias: Lea, H. C. (Henry Charles)
+    birthdate: 1825
+    deathdate: 1909
+    gutenberg_agent_id: '40029'
+    url: http://www.gutenberg.org/2009/agents/40029
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Charles_Lea
+description: ''
+gutenberg_issued: '2022-08-14'
+identifiers:
+  gutenberg: '68744'
+language: en
+pgterms:marc904: https://archive.org/details/theinquisition00leauoft
+pgterms:marc905: 20180427220238lea
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Richard Tonsing, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :The Macmillan company,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The inquisition in the Spanish dependencies: Sicily - Naples - Sardinia -
+  Milan - the Canaries - Mexico - Peru - New Granada'
+url: http://www.gutenberg.org/ebooks/68744
